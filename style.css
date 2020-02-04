@@ -1,0 +1,17 @@
+body{
+    background: black;
+    color: green;
+    overflow: hidden;
+}
+#heading{
+    position: relative;
+    left: -155px;
+    display: none;
+}
+.hide{
+    left: -155px;
+}
+.slide{
+    transition: .5s;
+    left: 0px !important;
+}

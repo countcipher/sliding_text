@@ -1,0 +1,1 @@
+# The purpose of this app is to allow some element (text, image, etc.) to be changed per a set inerval and to slide onto the screen when it appears.
